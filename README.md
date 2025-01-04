@@ -23,7 +23,7 @@
                 type="color" for color selection.
                 placeholder provides hints inside input boxes.
   7. formating.html :-Formatting Tags: Shows bold -<b>, italic - <i>, and underlined - <u> text.
-  8. heading.html  :- Headings <h1> to <h3>: Create titles and subtitles in decreasing order of importance.
+  8. heading.html  :- Headings <h1> to <h3> Create titles and subtitles in decreasing order of importance.
   9. image.html :-Images <img>:
                   src: Source of the image.
                   alt: Descriptive text for accessibility and fallback.
@@ -39,6 +39,6 @@
   13. quotations.html :-Blockquotes <blockquote>: Adds quoted text with optional citation.
   14. table.html :-ables
                   Table Structure:
-                  <table>: The main container.
-                  <thead>: Header row with <th> table headers.
-                  <tbody>: Body rows with <tr> -table rows and <td> table data.
+                  <table> The main container.
+                  <thead> Header row with <th> table headers.
+                  <tbody> Body rows with <tr> -table rows and <td> table data.
